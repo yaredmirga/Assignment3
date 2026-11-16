@@ -1,0 +1,3 @@
+Reflection
+
+This assignment helped me understand how AI can assist with writing R functions. I used AI to generate an initial function and then refined it through additional prompts. The function was tested using sample data and produced the expected result. I learned that AI can help save time, but it is important to test and verify the output. I also learned how to improve code by adding validation and handling missing values. Overall, the assignment showed me how AI and human review can work together to create reliable code.
