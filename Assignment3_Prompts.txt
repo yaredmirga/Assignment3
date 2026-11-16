@@ -1,0 +1,15 @@
+Task Description
+
+Calculate the average score of a student after removing missing values.
+
+AI Prompt
+
+Write an R function that calculates the average score of a student after removing missing values.
+
+Refinement Prompt
+
+Revise the function to include comments, argument validation, and return a clean result.
+
+Debug Prompt
+
+Update the function to handle NA values and provide a clear error message if the input is not numeric.
